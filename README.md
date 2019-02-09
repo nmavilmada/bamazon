@@ -19,3 +19,5 @@ Technologies Used
 - Node JS
 - Mysql NPM Package
 - Inquire NPM package
+
+![bamazon](https://user-images.githubusercontent.com/43711658/52521268-7d1c9680-2c42-11e9-9804-1fb0ee5cb6f7.gif)
