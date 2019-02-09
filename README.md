@@ -23,8 +23,3 @@ Technologies Used
 Purchase One Item
 ![oneitem](https://user-images.githubusercontent.com/43711658/52520719-daace500-2c3a-11e9-87a6-d4f53f7eef76.gif)
 
-Purchase multiple Items
-![morethanone](https://user-images.githubusercontent.com/43711658/52520721-e4cee380-2c3a-11e9-91ae-df44910b8313.gif)
-
-Out of Stock
-![outofstock](https://user-images.githubusercontent.com/43711658/52520729-ebf5f180-2c3a-11e9-8153-462dcb5e0b11.gif)
