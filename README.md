@@ -19,7 +19,3 @@ Technologies Used
 - Node JS
 - Mysql NPM Package
 - Inquire NPM package
-
-Purchase One Item
-![oneitem](https://user-images.githubusercontent.com/43711658/52520719-daace500-2c3a-11e9-87a6-d4f53f7eef76.gif)
-
